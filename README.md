@@ -1,8 +1,10 @@
 <h1 align="center">ToDo App JS 👋</h1>
 <p>
+  To Do List em HTML, CSS e Javascript para aprimorar conhecimento. 
 </p>
 
-> To Do List em HTML, CSS e Javascript para aprimorar conhecimento. 
+> 
+> 
 > ![ToDo-App-JS_1](https://user-images.githubusercontent.com/62266885/145655522-90312163-b4b6-4f17-af1f-462c7ed514c0.gif)
 
 
